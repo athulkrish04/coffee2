@@ -1,0 +1,373 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=EB+Garamond&family=Great+Vibes&family=Montserrat:wght@200&family=Mulish:wght@300&family=Open+Sans&family=Playfair+Display&family=Satisfy&display=swap');
+
+#navbar {
+    height: 70px;
+    width: 100%;
+    /* background-color: rgb(116, 106, 106); */
+    grid-template-columns: 70% 30%;
+    /* position: fixed; */
+}
+
+#img1 {
+    height: 70px;
+    width: auto;
+    position: absolute;
+    left: 30 px;
+}
+
+#icon1 {
+
+    display: flex;
+    position: absolute;
+    left: 1369px;
+    top: 39px;
+}
+
+#icon2 {
+    display: flex;
+    position: absolute;
+    left: 1402px;
+    top: 37px;
+}
+
+#icon3 {
+    display: flex;
+    position: absolute;
+    left: 1435px;
+    top: 37px;
+}
+
+#btn1 {
+    display: flex;
+    position: absolute;
+    left: 1481px;
+    top: 35px;
+    background-color: #555555;
+    /* Black */
+    color: white;
+    border-radius: 10px;
+}
+
+#div1 {
+    height: 800px;
+    /* background-color: bisque; */
+}
+
+#stylish {
+    color: black;
+    position: absolute;
+    top: 229px;
+    /* max-width: 280px; */
+    left: 100px;
+    font-size: 50px;
+    font-family: 'Playfair Display', serif;
+}
+
+#para1 {
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 390px;
+    left: 147px;
+}
+
+#gal1 {
+    height: 550px;
+    position: absolute;
+    left: 571px;
+    top: 135px;
+
+}
+
+#vdo1 {
+    height: 671px;
+    position: absolute;
+    left: 861px;
+    /* width: 47%; */
+
+
+}
+
+#fb1 {
+    color: white;
+    position: absolute;
+    top: 707px;
+    left: 1447px;
+}
+
+#insta1 {
+    color: white;
+    position: absolute;
+    top: 707px;
+    left: 1479px;
+}
+
+#utube1 {
+    color: white;
+    position: absolute;
+    top: 707px;
+    left: 1508px;
+}
+
+#twitter1 {
+    color: white;
+    position: absolute;
+    top: 707px;
+    left: 1541px;
+}
+
+.vl {
+    border-left: 3px solid orange;
+    height: 90px;
+    position: absolute;
+    top: 704px;
+    left: 85px;
+}
+
+#hoz {
+    color: black;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 725px;
+    left: 75px;
+    font-size: small;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+#div2 {
+    height: 573px
+        /* background-color: rgb(219, 0, 0); */
+
+}
+
+#img2 {
+    height: 500px;
+    position: absolute;
+    left: 350px;
+}
+
+#long {
+    position: absolute;
+    left: 780px;
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+    top: 838px;
+}
+
+#para2 {
+    position: absolute;
+    left: 800px;
+    top: 1031px
+}
+
+#cmp1 {
+    position: absolute;
+    left: 836px;
+    top: 1123px;
+}
+
+#cmp2 {
+    position: absolute;
+    top: 1157px;
+    left: 816px;
+    border-bottom: 3px solid orange;
+    height: 23px;
+    font-size: smaller;
+
+}
+
+#blend {
+
+    position: absolute;
+    left: 937px;
+    top: 1133px;
+}
+
+#blend1 {
+    position: absolute;
+    left: 930px;
+    top: 1157px;
+    border-bottom: 3px solid orange;
+    height: 23px;
+    font-size: smaller
+}
+
+#quality {
+    position: absolute;
+    top: 1237px;
+    left: 824px;
+
+}
+
+#quality1 {
+    position: absolute;
+    top: 1288px;
+    left: 818px;
+    font-size: 14px;
+    border-bottom: 3px solid orange;
+}
+
+#bio {
+    position: absolute;
+    top: 1258px;
+    left: 930px;
+
+}
+
+#bio1 {
+    position: absolute;
+    top: 1287px;
+    left: 915px;
+    font-size: 14px;
+    border-bottom: 3px solid orange;
+}
+
+#DATE {
+    color: black;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 1198px;
+    left: 1046px;
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#div3 {
+    height: 701px;
+    /* width: 400px; */
+    /* background-color: black; */
+}
+
+#img3 {
+    position: absolute;
+    top: 1670px;
+    left: 283px;
+    height: 400px;
+}
+
+#buss {
+    position: absolute;
+    top: 1713px;
+    left: 599px;
+    font-size: 29px;
+}
+
+#buss1 {
+    position: absolute;
+    top: 1809px;
+    left: 601px;
+    border-bottom: 3px solid orange;
+}
+
+#img4 {
+    position: absolute;
+    top: 1506px;
+    left: 825px;
+    height: 400px;
+}
+
+#hme {
+    position: absolute;
+    top: 1538px;
+    left: 1112px;
+    font-size: 29px;
+}
+
+#onl {
+    position: absolute;
+    left: 1114px;
+    top: 1633px;
+    border-bottom: 3px solid orange;
+
+}
+
+#div4 {
+    /* background-color: rgb(0, 255, 217); */
+    height: 250px;
+    /* width: 400px; */
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+#foot {
+    position: absolute;
+    top: 2183px;
+    left: 120px;
+
+
+}
+
+#enter {
+    position: absolute;
+    top: 2227px;
+    left: 145px;
+}
+
+.sub {
+    transition-duration: 0.4s;
+    border: 2px solid orange;
+    position: absolute;
+    height: 24px;
+    width: 121px;
+    top: 2260px;
+    left: 159px;
+    border-radius: 5px;
+}
+
+.sub:hover {
+    background-color: orange;
+    /* Green */
+    color: white;
+
+}
+#shop{
+    position: absolute;
+    top: 2180px;
+    left: 420px;
+    border-bottom: solid 1px black;
+}
+#lst{
+    position: absolute;
+    top: 2215px;
+    left: 420px;
+    font-size: smaller;
+}
+#assist{
+    position: absolute;
+    top: 2182px;
+left: 604px;
+border-bottom: solid 1px black;
+}
+#assist1{
+    position:absolute ;
+    top: 2214px;
+    left: 604px;
+font-size: smaller;
+}
+#coffee1{
+    position: absolute;
+    top: 2182px;
+left: 743px;
+border-bottom: solid 1px black;
+}
+#coffee2{
+    position: absolute;
+    top: 2215px;
+    left: 743px;
+    font-size: smaller;
+}
+#hi5{
+    position: absolute;
+    top: 2181px;
+left: 840px;
+border-bottom: solid 1px black;
+
+}
+#hi9{
+    position: absolute;
+    top: 2215px;
+left: 840px;
+    font-size: smaller;
+
+}
